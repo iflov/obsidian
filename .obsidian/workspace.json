@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21market/데이터 베이스/Option.md",
+                "file": "21market/근무일지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21market/데이터 베이스/Option.md",
+                "file": "21market/근무일지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21market/데이터 베이스/Option.md",
+                "file": "21market/근무일지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21market/데이터 베이스/Option.md"
+                "file": "21market/근무일지.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0d3fa2b1bc50f442",
   "lastOpenFiles": [
-    "21market/근무일지.md",
+    "Pasted image 20231206173441.png",
     "21market/데이터 베이스/Option.md",
+    "21market/근무일지.md",
     "21market/데이터 베이스",
     "obsidian/옵시디언 동기화 ( obsidian-git ).md",
     "obsidian",
